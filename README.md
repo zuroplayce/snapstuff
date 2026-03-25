@@ -11,3 +11,8 @@ Once you've learned how to program in one language (at least any language that y
 
 EMPHASIS: "it's much easier to learn another language" after you've learned your first and Snap! means you don't have to worry about "syntax (parentheses, commas, semicolons, quotation marks"
 
+===
+
+Sample Snap! Project Shared Link
+
+https://snap.berkeley.edu/snap/snap.html#present:Username=zuro&ProjectName=myfirstproject
